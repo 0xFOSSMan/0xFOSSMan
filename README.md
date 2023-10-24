@@ -5,7 +5,7 @@
 ### 🏠 [Homepage](https://fossman.de/)
 
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=0xFOSSMan&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=0xFOSSMan&show_icons=true&theme=blue-green)
 
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xFOSSMan&theme=blue-green)
