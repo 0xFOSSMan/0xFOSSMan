@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub Profile! 👋</h1>
 
-> 0xFOSSMan's Profile Page
+<a href="https://vshymanskyy.github.io/StandWithUkraine"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" /></a>
 
 ### 🏠 [Homepage](https://fossman.de/)
 
