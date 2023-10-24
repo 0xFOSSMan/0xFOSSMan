@@ -14,5 +14,3 @@
  
 ![Profile View Counter](https://komarev.com/ghpvc/?username=0xFOSSMan)
 </div>
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
